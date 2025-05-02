@@ -1,0 +1,31 @@
+[submodule "smartdashcam_tollroad_monitoring"]
+	path = smartdashcam_tollroad_monitoring
+	url = https://github.com/hifzhil/smartdashcam_tollroad_monitoring
+
+[submodule "smarttrafficlight_traffic_monitoring"]
+	path = smarttrafficlight_traffic_monitoring
+	url = https://github.com/hifzhil/smarttrafficlight_traffic_monitoring
+
+[submodule "smartpole_environment_monitoring"]
+	path = smartpole_environment_monitoring
+	url = https://github.com/hifzhil/smartpole_environment_monitoring
+
+[submodule "smartbuilding_occupancy_facial_recognition"]
+	path = smartbuilding_occupancy_facial_recognition
+	url = https://github.com/hifzhil/smartbuilding_occupancy_facial_recognition
+
+[submodule "car-simulator"]
+	path = car-simulator
+	url = https://github.com/hifzhil/car-simulator
+
+[submodule "dental_assistant"]
+	path = dental_assistant
+	url = https://github.com/hifzhil/dental_assistant
+
+[submodule "ECU_Stm32"]
+	path = ECU_Stm32
+	url = https://github.com/hifzhil/ECU_Stm32
+
+[submodule "Logger_waterlevel_pressure"]
+	path = Logger_waterlevel_pressure
+	url = https://github.com/hifzhil/Logger_waterlevel_pressure 
