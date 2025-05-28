@@ -29,3 +29,6 @@
 [submodule "Logger_waterlevel_pressure"]
 	path = Logger_waterlevel_pressure
 	url = https://github.com/hifzhil/Logger_waterlevel_pressure 
+[submodule "face-reidentification"]
+	path = face-reidentification
+	url = https://github.com/hifzhil/face-reidentification

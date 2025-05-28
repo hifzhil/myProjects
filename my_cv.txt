@@ -1,0 +1,61 @@
+Ahmad Hifzhil Burhan, S.T.
+hifzhil12@gmail.com | +6281270415428 | https://www.linkedin.com/in/ahmadhb/
+EDUCATION 
+Institut Teknologi Sepuluh Nopember (ITS) — BEng in Electrical Engineering	                        2020 - 2024
+GPA: 3.37/4.00
+Final project: “Design and Development of a Robotic Assistant for Oral Illumination: Integration of Computer Vision, Robotic Arm Control, and Voice Recognition in an Embedded System”
+Tools: CAD, MTCNN, WakeNet, Robotic Arm Control, Keras, TinyML, C++ for Microcontroller.
+
+WORK EXPERIENCE
+
+Electrical Team, Gedung Riset Mobil Listrik ITS	2023 – 2024
+- Developed STM32-based ECU with efficient lookup table algorithms for dual diesel fuel system
+- Collaborated with cross-functional teams to integrate ECU with vehicle systems and software architecture
+
+
+IoT R&D Officer, PT Teknologi Gagasan Nusantara	2024 – 2025
+Led development of enterprise-scale IoT and computer vision solutions across multiple sectors:
+
+- Smart Building System (Nirvana Life Bali)
+  Architected real-time occupancy monitoring system with integrated facial recognition for access control and building automation, connected to cloud infrastructure for centralized management.
+
+- Smart Tollway Monitoring (Jasamarga)
+  Developed edge-based AI dashcam system implementing computer vision for vehicle detection, traffic pattern analysis, and road infrastructure anomaly detection.
+
+- Environmental Monitoring System (IKN Smart City)
+  Designed smart pole network combining environmental sensors and AI surveillance, implementing computer vision for crowd analytics and integrated monitoring of air quality, weather, and noise levels.
+
+- Infrastructure Monitoring (PUPR Jakarta Selatan)
+  Designed and fabricated custom IoT data logger PCB, incorporating industrial sensors for power, water level, and pressure monitoring with Modbus/RS485 communication protocol.
+
+- Traffic Management System (Korlantas)
+  Developed AI-powered traffic light control system featuring real-time adaptive algorithms for traffic flow optimization and vehicle classification capabilities.
+
+ORGANIZATIONAL EXPERIENCE
+
+Head of Divisions Electrical & Programming, ITS Team Sapuangin	2021 - 2024
+- Led research and development of autonomous vehicle systems using ROS and Carla Simulator, advancing from team member to division head
+- Spearheaded data telemetry and IoT-based monitoring systems integration, resulting in 1st place in Data & Telemetry Awards (2023)
+- Implemented sensor fusion solutions (LiDAR, GPS, IMU) and machine learning algorithms for vehicle optimization
+- Achieved multiple victories including regional championships and efficiency records (422.93 km/L) through innovative vehicle optimizations
+
+HONORS & AWARDS	
+PKM-R Funding Stage,  Ministry of Education and Culture Indonesia	2020
+Project Title: "Microearthquake Hypocenter Relocation Using Joint Hypocenter Determination
+Technique and 3D Seismic Tomography for Identifying Permeable Zones in the Geothermal Field."
+3rd Winner of Autonomous Programming Competition, Global event, Shell Eco-Marathon	2022
+4th Winner of Autonomous Programming Competition, Global event, Shell Eco-Marathon	2023
+1st Winner of On-track Awards, Regional event, Shell Eco-Marathon	
+Most Efficient Car in Regional Asia Pacific and the Middle East (422.93 km/L).	  2023
+1st Winner of Data & Telemetry Awards, Regional event of Asia Pacific and the Middle East,
+Shell Eco-Marathon	2023
+3rd Winner of Driver World Championship (DWC), Global event, Shell Eco-Marathon	2023
+2nd Winner of Data & Telemetry Awards, Regional event of Asia Pacific and the Middle East,
+Shell Eco-Marathon	2024
+SKILLS
+Programming Languages: C/C++, Python (Advanced).
+Software & Tools: Linux (Advanced), Robot Operating System (Advanced), Computer Vision (Advanced), CAD (Intermediate), Embedded Systems (Advanced), IoT (Advanced).
+Management: Project coordination, Team leadership.
+Languages: Bahasa Indonesia (Native), English (TOEFL 520).
+PORTOFOLIO
+https://github.com/hifzhil/myProjects

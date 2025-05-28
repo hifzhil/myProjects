@@ -10,10 +10,50 @@ I am a skilled engineer specializing in IoT, embedded systems, and smart city so
 #### 1. Smart Dashcam for Toll Road Monitoring
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=GitHub)](https://github.com/hifzhil/smartdashcam_tollroad_monitoring)
 
-An intelligent camera system designed for toll road monitoring and management.
-- Real-time vehicle detection and tracking
-- Automated toll collection system integration
-- Traffic flow analysis and reporting
+An intelligent camera system designed for comprehensive toll road monitoring and management, combining real-time analytics with GPS tracking.
+
+**System Demo:**
+![Smart Dashcam Demo](assets/smartdashcam-demo.gif)
+*Real-time vehicle detection and tracking system in action*
+
+**Core Features:**
+- Advanced vehicle detection and classification
+- Real-time traffic flow analysis
+- GPS-based vehicle tracking
+- Automated toll collection integration
+- Anomaly detection and incident reporting
+- Historical data analytics
+
+**Analytics Dashboard:**
+![GPS Statistics](assets/gps-statistics.png)
+*GPS-based vehicle tracking and route analysis*
+
+**Incident Management:**
+![Anomaly Events](assets/anomaly-event-reports.png)
+*Real-time anomaly detection and event reporting interface*
+
+**Technical Specifications:**
+- High-resolution camera system with night vision capability
+- AI-powered vehicle recognition algorithms
+- GPS module for precise location tracking
+- Edge computing for real-time processing
+- Cloud integration for data storage and analysis
+
+**Key Applications:**
+- Traffic flow optimization
+- Toll collection automation
+- Vehicle speed monitoring
+- Incident detection and response
+- Traffic pattern analysis
+- Revenue management
+
+**Benefits:**
+- Improved toll road efficiency
+- Enhanced traffic safety
+- Reduced operational costs
+- Data-driven decision making
+- Streamlined incident response
+- Better user experience for drivers
 
 #### 2. Smart Traffic Light for Traffic Monitoring
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=GitHub)](https://github.com/hifzhil/smarttrafficlight_traffic_monitoring)
@@ -34,10 +74,47 @@ A multi-functional smart pole system for urban environment monitoring.
 #### 4. Smart Building System
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=GitHub)](https://github.com/hifzhil/smartbuilding_occupancy_facial_recognition)
 
-Comprehensive building management system with advanced features.
-- Occupancy detection using facial recognition
-- Building automation control
-- Energy efficiency optimization
+A comprehensive building management system with advanced features, specifically designed for modern gym facilities and smart buildings.
+
+**Key Features:**
+- Advanced facial recognition for member identification and access control
+- Real-time occupancy tracking and management
+- Automated member check-in/check-out system
+- Digital member profile management
+- Building automation and environmental control
+
+**Technical Implementation:**
+- Computer vision-based facial recognition using OpenCV
+- Real-time processing and member verification
+- Secure member database integration
+- User-friendly interface for staff and administrators
+
+**Project Screenshots:**
+![Captured Member Recognition](assets/captured-member.jpeg)
+*Real-time facial recognition system in action*
+
+![Gym Member Information](assets/gym-member-info.jpeg)
+*Member profile and information management interface*
+
+![Facial Reidentification](assets/face-reidentification.png)
+*Facial reidentification research*
+
+**Demo:**
+[Watch Demo Video](assets/demo-vid.mp4)
+
+**System Components:**
+- Facial recognition cameras at entry/exit points
+- Member database management system
+- Real-time occupancy monitoring dashboard
+- Environmental control systems
+- Access control integration
+
+**Benefits:**
+- Enhanced security through biometric verification
+- Streamlined member check-in process
+- Improved facility utilization tracking
+- Data-driven insights for business optimization
+- Reduced operational overhead
 
 ### Robotics & Automation
 
