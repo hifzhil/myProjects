@@ -13,8 +13,12 @@ I am a skilled engineer specializing in IoT, embedded systems, and smart city so
 An intelligent camera system designed for comprehensive toll road monitoring and management, combining real-time analytics with GPS tracking.
 
 **System Demo:**
-![Smart Dashcam Demo](assets/smartdashcam-demo.gif)
+<img src="assets/smartdashcam-demo.gif" alt="Smart Dashcam Demo" width="100%"/>
 *Real-time vehicle detection and tracking system in action*
+
+**Product Implementation:**
+![Smart Dashcam Product](assets/smartdashcam-product.jpeg)
+*Smart Dashcam hardware implementation*
 
 **Core Features:**
 - Advanced vehicle detection and classification
@@ -59,17 +63,45 @@ An intelligent camera system designed for comprehensive toll road monitoring and
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=GitHub)](https://github.com/hifzhil/smarttrafficlight_traffic_monitoring)
 
 An adaptive traffic light system that optimizes traffic flow based on real-time monitoring.
+
+**System Demo:**
+<video width="100%" controls>
+  <source src="assets/vehicle-classification.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Real-time vehicle classification and traffic analysis*
+
+**Key Features:**
 - Real-time traffic density analysis
 - Adaptive signal timing
 - Integration with traffic management systems
+- Vehicle classification and counting
+- Traffic pattern optimization
+- Emergency vehicle priority system
 
 #### 3. Smart Pole for Smart City Applications
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=GitHub)](https://github.com/hifzhil/smartpole_environment_monitoring)
 
-A multi-functional smart pole system for urban environment monitoring.
+A multi-functional smart pole system for urban environment monitoring and public safety.
+
+**System Implementation:**
+![Smart Pole Detection](assets/smartpole-detection.jpeg)
+*Smart Pole detection and monitoring system*
+
+**Anomaly Detection:**
+<video width="100%" controls>
+  <source src="assets/crowded-detected-as-anomaly.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Crowd anomaly detection and monitoring*
+
+**Key Features:**
 - Environmental parameter monitoring
 - Public safety features
 - Integrated city infrastructure management
+- Real-time crowd analysis
+- Anomaly detection and alerts
+- Environmental data collection and analysis
 
 #### 4. Smart Building System
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=GitHub)](https://github.com/hifzhil/smartbuilding_occupancy_facial_recognition)
