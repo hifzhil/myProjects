@@ -28,11 +28,16 @@ An intelligent camera system designed for comprehensive toll road monitoring and
 - Anomaly detection and incident reporting
 - Historical data analytics
 
-**Analytics Dashboard:**
+
+**Object Detection:**
+![Screenshot](assets\object-detection-smartdashcam.png)
+*Screenshot of streaming*
+
+**Analytics:**
 ![GPS Statistics](assets/gps-statistics.png)
 *GPS-based vehicle tracking and route analysis*
 
-**Incident Management:**
+**Anomaly Management:**
 ![Anomaly Events](assets/anomaly-event-reports.png)
 *Real-time anomaly detection and event reporting interface*
 
